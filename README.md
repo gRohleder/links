@@ -1,4 +1,6 @@
 # links
+# Katas
+- https://github.com/emilybache
 # Blogs
 - [Hacker Noon[(https://hackernoon.com/)
 - [freeCodeCamp.org](https://www.freecodecamp.org/news/)
